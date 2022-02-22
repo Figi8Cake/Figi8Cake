@@ -1,7 +1,7 @@
 ### About Me 📃
 
 *Hey I'm Figi8Cake. Owner of AstroCore. I code pretty much everyday!*
-<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" class="center" style="height: 400px; width:400px;"></p>
+<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" class="center" style="height: 400px; width:400px;display: block;margin-left: auto;margin-right:auto;width:50%;"></p>
 
 ## Currently Learning
 <p align='left'>
@@ -32,7 +32,7 @@
 ## Discord
 **Click The icon Below To join my discord!**
 <p align='left'>
-<a href="https://discord.astrocore.net"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<a href="http://discord.astrocore.net/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
    </a>
 <p/>
  
