@@ -24,7 +24,9 @@
 ## Organisation 
 *This is AstroCore! Click the image to head to our site!*
 <p align='left'>
-<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:400px;"><p/>
+<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:400px;">
+   </a>
+<p/>
 
 ## Discord
 **Click The icon Below To join my discord!**
