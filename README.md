@@ -1,7 +1,7 @@
 ### About Me 📃
 
 *Hey I'm Figi8Cake. Owner of AstroCore. I code pretty much everyday!*
-<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" class="center" style="height: 400px; width:400px;display: block;margin-left: auto;margin-right:auto;width:50%;"></p>
+<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" class="center" style="height: 400px; width:400px;"></p>
 
 ## Currently Learning
 <p align='left'>
