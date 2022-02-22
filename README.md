@@ -20,8 +20,8 @@
 ## IDE
  <p align='left'>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- </p?
-     
+ </p>
+
 ## Organisation 
 *This is AstroCore! Click the image to head to our site!*
 <p align='left'>
