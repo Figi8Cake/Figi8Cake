@@ -8,7 +8,8 @@
    <img src="https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <p align='left'>
+   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+</p>
  
 ## Learnt
 <p align='left'>
@@ -23,8 +24,12 @@
 ## Organisation 
 *This is AstroCore! Click the image to head to our site!*
 <p align='left'>
-<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:400px;"><p/><a>
-    
+<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:400px;"><p/>
+
+## Discord
+<p align='left'>
+<a href="https://discord.astrocore.net"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"><p/>
+ 
 ## My Website
  *Working on my site currently! you can view it by clicking the image Down-below!⬇*
  <p align='left'>
