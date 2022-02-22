@@ -38,7 +38,7 @@
 ## My Website
  *Working on my site currently! you can view it by clicking the image Down-below!⬇*
  <p align='left'>
-<a href="https://geosjobby.xyz"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/SiteBackround.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
+<a href="https://figi8cake.xyz"><img src="https://cdn.discordapp.com/attachments/894880286372921394/945740079966593034/unknown.png" alt="Logo"><p/></a>
     
 ## My Github Stats
    <p align='left'>
