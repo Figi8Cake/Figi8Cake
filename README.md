@@ -28,6 +28,7 @@
 
 ## Discord
 <p align='left'>
+   Click The icon Below To join my discord!
 <a href="https://discord.astrocore.net"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"><p/>
  
 ## My Website
