@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
      
 ## Organisation 
-*Working at Astrocore! Click on image to go to site. Discord link on site!*
+*This is AstroCore! Click the image to head to our site!*
 <p align='left'>
 <a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
     
