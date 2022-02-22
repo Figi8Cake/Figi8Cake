@@ -1,7 +1,7 @@
 ### About Me 📃
 
 *Hey im Geosjobbydo, AKA James O'Brien!. Currently Learning Web dev and Software dev!*
-<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" style="height: 490px; width:490px;"></p>
+<p style="text-align:center;"><img src="Pictures/image0 (2).png" alt="Logo" style="height: 400px; width:400px;"></p>
 
 ## Currently Learning
 <p align='left'>
@@ -25,7 +25,7 @@
 ## Organisation 
 *This is AstroCore! Click the image to head to our site!*
 <p align='left'>
-<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:490px;"><p/><a>
+<a href="https://Astrocore.net"><img src="https://github.com/geosjobby/geosjobby/blob/main/Pictures/Astrocore.png?raw=true" alt="Logo" style="height: 400px; width:400px;"><p/><a>
     
 ## My Website
  *Working on my site currently! you can view it by clicking the image Down-below!⬇*
